@@ -9,9 +9,9 @@
 * `Can be used in multiple ways! `
 
 # Usage
-- **Step 1:** Put your custom messages in 'messages.txt' (seperated by new lines, if you want the message to have a newline do \n)
-- **Step 2:** Launch the program and enter the webhook. Then enter the number of messages!
-- **Step 3:** Done! Wait for it to finish spamming & delete the webhook!
+
+- **Method 1:** Add it as a bookmarklet (Make a new bookmark and make the URL `javascript:<js code>`, REPLACE <js code> WITH THE CODE)
+- **Method 2:** Put it between <script> blocks in a website.
 
 **(YOU MUST HAVE PYTHON INSTALLED!)**
 
