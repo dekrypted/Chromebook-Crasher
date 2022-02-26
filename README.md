@@ -13,6 +13,6 @@
 - **Method 1:** Add it as a bookmarklet (Make a new bookmark and make the URL `javascript:<js code>`, REPLACE <js code> WITH THE CODE)
 - **Method 2:** Put it between <script> blocks in a website.
 
-**(YOU MUST HAVE PYTHON INSTALLED!)**
+**Fun Fact:** I got sent to the principal's office for using this on my friend... Eek!
 
 **Enjoy!** 😊
