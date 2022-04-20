@@ -2,6 +2,9 @@
 <h2 align="center">⚡ Simple JS code that can freeze any chromebook for 5 minutes!</h3>
 <h4 align="center">🌟 If you enjoy this, star this repository and drop a follow! Thanks 😊</h3>
 <br />
+
+**⚠ WARNING:** This is ONLY for educational purposes.
+
 <h2 align="left">- Features -</h3>
 
 * `Crashes any chromebook! `
