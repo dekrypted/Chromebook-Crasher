@@ -1,5 +1,1 @@
-onbeforeunload = function(){localStorage.x=1};
-
-setTimeout(function(){
-  while(1)location.reload(1)
-}, 1000)
+for (var i=69420;i==i;i*=i){console.log(i)}
